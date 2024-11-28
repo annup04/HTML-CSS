@@ -1,0 +1,14 @@
+body{margin:0;font-family:Inter}
+.banner{background-color:#ffcd9e;display:flex}
+.section-left{margin-top:50px;margin-left:130px}
+.header{font-style:normal;font-weight:700;font-size:32px;color:#282828;width:80%}
+.description{font-style:normal;font-weight:500;font-size:18px;color:#484848;width:65%;line-height:160%}
+.tag{font-style:normal;font-weight:800;font-size:18px;color:#282828}
+input{height:32px;background:#FFFFFF;border-radius:8px;padding-left:20px;width:15rem;margin-top:12px;margin-right:12px;border:3px solid #000000}
+button{background:#282828;border:none;border-radius:8px;color:#fff;font-weight:700;font-size:14px;line-height:24px;width:10em;height:40px;cursor:pointer}
+.bottom-line{font-style:normal;font-weight:500;font-size:16px;color:#fff;margin-top:12px;margin-left:20px}
+.footer{display:flex;background:#282828;color:#fff;justify-content:space-between;padding-top:40px;padding-left:120px;padding-right:120px}
+.footer ul{list-style:none}
+.footer ul li{margin-bottom:8px;cursor:pointer}
+.footer-list2{text-align:right}
+.logo-list{height:16px}
